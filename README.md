@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoirhi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## よく使用しているプログラミング言語
 
 ![Skill](https://skillicons.dev/icons?i=js,typescript,html,css)
